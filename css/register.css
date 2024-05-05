@@ -1,0 +1,15 @@
+/* Start Content Section  */
+body{
+    background-color: hsl(0, 0%, 90%);
+}
+h4{
+    color: hsl(254, 62%, 39%);
+}
+.text{
+    color: white;
+    background-color: rgba(175, 15, 15, 0.884);
+    font-family: serif;
+    text-align: center;
+    padding: 5px;
+}
+
